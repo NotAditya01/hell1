@@ -1,5 +1,5 @@
-## **Sledge Privacy Policy**
-### By using Sledge Bot, you agree with its privacy policy.
+## **port Privacy Policy**
+### By using port Bot, you agree with its privacy policy.
 
 ## 1. What does it store?
 
