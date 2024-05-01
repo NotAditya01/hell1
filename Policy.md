@@ -1,5 +1,5 @@
-## **port Privacy Policy**
-### By using port Bot, you agree with its privacy policy.
+## **hell Privacy Policy**
+### By using hell Bot, you agree with its privacy policy.
 
 ## 1. What does it store?
 
@@ -47,4 +47,4 @@
 ### Simply join our support server and ask any in support channel to delete your entire data, We will delete your entrie data without asking any question, exceptions: user/server blacklisted IDs (discord tos / bot tos violators)
 
 ## Please note, that we can change this policy without any warning at any given time.
-#### **Last changed:**  `2024 march 30`
+#### **Last changed:**  `2024 2 MAY`
